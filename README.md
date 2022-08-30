@@ -1,6 +1,6 @@
 # ASHRAE-LEVEL-II-ENERGY-AUDIT
 
-##EXECUTIVE SUMMARY
+## EXECUTIVE SUMMARY
 This project presents the results of an ASHRAE Level II building energy assessment. This energy assessment conforms to an ASHRAE Level II – Energy Survey and Analysis requirements. This report presents the results of the lighting upgrades and improvements, heating equipment upgrades, and water conservation opportunities for the Rosewood Village, 8220, 8240, 8260, and 8280 No.2 Road, Richmond, BC.
 
 We conducted this assessment beginning on January 30th, 2022 to April 26th, 2022 for Rosewood Village, Richmond BC to identify energy-saving projects to comply with the BC Energy step code. An investigation of the current building energy consumption was performed by analyzing utility bills, estimating energy end uses and benchmarking the building against similar buildings via Energy and Star. Energy loads and energy efficiency were re-evaluated using pertinent energy and equipment data, software simulation and spreadsheet calculations. Implementation costs and annual utility cost savings are used to calculate a simple payback period, which forms the basis for the recommending measures.
@@ -9,7 +9,7 @@ A total of five energy efficiency measures (EEM) for Rosewood Village are provid
 
 EEM 1, 2, 3 are mainly aimed at lighting systems, suggesting and retrofitting existing lighting systems with low cost and good results. EEM 4 focuses on the existing integrated water heating systems and is a proposal for retrofitting water heating systems in existing townhouses with a slightly higher equipment cost and a payback period of less than two years. EEM 5 is a community-wide upgrade and maintenance of the equipment. The cost is high, and the payback period is longer, but the payback is significantly higher, with a 30% reduction in the use of gas or electricity for winter heating.
 
-##METHODOLOGY
+## METHODOLOGY
 This building energy assessment includes evaluating all building HVAC, lighting, water, and envelope, where applicable, and energy metering devices and opportunities. Inputs all building energy usage data to previously developed excel calculation spreadsheets, include existing equipment data and measured parameters to evaluate current and future system efficiencies and energy consumption. Energy Efficiency Measures (EEMs) were evaluated for electrical consumption savings (kWh), peak-period demand savings (kW), and gas savings (BTU or GJ).
 
 This project uses eQUEST software to simulate energy efficiency performance before and after the renovation. Capital cost estimates include the following: material, labour, and where practical design (5- 10% of materials and labour), construction/project management (5-10% of materials and labour), commissioning (5-10% of materials and labour), contractor profit and overhead (20-30% of materials and labour), and contingency (5-10%). The capital cost estimates are based on information from suppliers and contractors, experience with similar projects, and published sources.
